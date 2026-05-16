@@ -17,20 +17,9 @@ this lab is intentionally designed to model a small corporate network with separ
 
 ---
 
-## high-level architecture
-  internet
-      |
-    router
-      |
-cisco catalyst switch
-      |
-  -----------------------------------------    
-  |   | |       |                         |     
-pi thinkpad windows all-in-one vm host attack lab
-(admin) laptop (server) (services) (isolated)
+## high-level architecture / topology diagram
 
-
-
+(placeholder - insert draw.io or png export here)
 
 ---
 
@@ -273,6 +262,3 @@ this environment is intentionally designed for experimentation, failure, and ite
 
 ---
 
-## topology diagram
-
-(placeholder - insert draw.io or png export here)
